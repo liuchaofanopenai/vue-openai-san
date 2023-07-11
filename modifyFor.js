@@ -1,5 +1,5 @@
 /**
- * for指令转换【联调完毕】
+ * for指令转换
  */
 
 exports.rule = [

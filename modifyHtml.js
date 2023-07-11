@@ -1,5 +1,5 @@
 /**
- * 转换v-html指令【联调完毕】
+ * 转换v-html指令
  */
 
 exports.rule = [

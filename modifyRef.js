@@ -1,5 +1,5 @@
 /**
- * 转换ref属性【联调完毕】
+ * 转换ref属性
  */
 
 exports.rule = [
